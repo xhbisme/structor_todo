@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "pageName": "TodoPage",
+      "pagePath": "/todo2",
+      "children": [
+        {
+          "variantName": "Unsaved variant",
+          "type": "div",
+          "props": {
+            "data-umyid": "2",
+            "style": {
+              "width": "520px",
+              "textAlign": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "background": "#eee"
+            }
+          },
+          "children": [
+            {
+              "variantName": "Unsaved variant",
+              "type": "TodoHead2",
+              "props": {
+                "data-umyid": "3"
+              },
+              "children": []
+            },
+            {
+              "variantName": "Unsaved variant",
+              "type": "TodoList",
+              "props": {
+                "data-umyid": "4",
+                "style": {
+                  "listStyle": "none"
+                }
+              },
+              "children": []
+            },
+            {
+              "variantName": "Unsaved variant",
+              "type": "TodoFoots",
+              "props": {
+                "data-umyid": "5",
+                "style": {
+                  "background": "#23ee67",
+                  "height": "45px",
+                  "paddingTop": "10px",
+                  "textAlign": "left"
+                },
+                "id": "foot"
+              },
+              "children": []
+            }
+          ]
+        }
+      ],
+      "props": {
+        "data-umyid": "1"
+      },
+      "pageTitle": "UnnamedPage",
+      "pageProps": [],
+      "pageScript": ""
+    }
+  ]
+}

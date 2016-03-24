@@ -1,0 +1,105 @@
+[
+  {
+    "children":[
+      {
+        "type": "CarouselItem",
+        "children":[
+          {
+            "type": "img",
+            "props": {
+              "width": 900,
+              "height": 500,
+              "src": "http://placehold.it/900x500"
+            }
+          },
+          {
+            "type": "div",
+            "props": {
+              "className": "carousel-caption"
+            },
+            "children": [
+              {
+                "type": "h3",
+                "children":[
+                  {"type": "span", "text": "First slide label"}
+                ]
+              },
+              {
+                "type": "p",
+                "children":[
+                  {"type": "span", "text": "Nulla vitae elit libero, a pharetra augue mollis interdum."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "CarouselItem",
+        "children":[
+          {
+            "type": "img",
+            "props": {
+              "width": 900,
+              "height": 500,
+              "src": "http://placehold.it/900x500"
+            }
+          },
+          {
+            "type": "div",
+            "props": {
+              "className": "carousel-caption"
+            },
+            "children": [
+              {
+                "type": "h3",
+                "children":[
+                  {"type": "span", "text": "Second slide label"}
+                ]
+              },
+              {
+                "type": "p",
+                "children":[
+                  {"type": "span", "text": "Nulla vitae elit libero, a pharetra augue mollis interdum."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "CarouselItem",
+        "children":[
+          {
+            "type": "img",
+            "props": {
+              "width": 900,
+              "height": 500,
+              "src": "http://placehold.it/900x500"
+            }
+          },
+          {
+            "type": "div",
+            "props": {
+              "className": "carousel-caption"
+            },
+            "children": [
+              {
+                "type": "h3",
+                "children":[
+                  {"type": "span", "text": "Second slide label"}
+                ]
+              },
+              {
+                "type": "p",
+                "children":[
+                  {"type": "span", "text": "Nulla vitae elit libero, a pharetra augue mollis interdum."}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

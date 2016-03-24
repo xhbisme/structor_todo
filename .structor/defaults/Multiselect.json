@@ -1,0 +1,33 @@
+[
+  {
+    "variantName": "default",
+    "type": "Multiselect",
+    "props": {
+      "defaultValue": [
+        1,
+        2
+      ],
+      "valueField": "id",
+      "textField": "name",
+      "data": [
+        {
+          "id": 0,
+          "name": "orange"
+        },
+        {
+          "id": 1,
+          "name": "purple"
+        },
+        {
+          "id": 2,
+          "name": "red"
+        },
+        {
+          "id": 3,
+          "name": "blue"
+        }
+      ],
+      "data-umyid": "14"
+    }
+  }
+]

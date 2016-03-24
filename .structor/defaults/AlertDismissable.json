@@ -1,0 +1,27 @@
+[
+  {
+    "variantName": "default",
+    "type": "AlertDismissable",
+    "props": {
+      "data-umyid": "66"
+    },
+    "children": [
+      {
+        "variantName": "Unsaved variant",
+        "type": "strong",
+        "props": {
+          "data-umyid": "67"
+        },
+        "text": "Strong text"
+      },
+      {
+        "variantName": "Unsaved variant",
+        "type": "span",
+        "props": {
+          "data-umyid": "68"
+        },
+        "text": "Text"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {"type":"ProgressBar","props":{"now":60,"label":"%(percent)s%"}},
+  {"type":"ProgressBar","props":{"now":60}},
+  {"type":"ProgressBar","props":{"now":60,"label":"%(percent)s%","bsStyle":"success"}},
+  {"type":"ProgressBar","props":{"now":60,"label":"%(percent)s%","bsStyle":"info"}},
+  {"type":"ProgressBar","props":{"now":60,"label":"%(percent)s%","bsStyle":"warning"}},
+  {"type":"ProgressBar","props":{"now":60,"label":"%(percent)s%","bsStyle":"danger"}},
+  {"type":"ProgressBar","props":{"now":60,"label":"%(percent)s%","bsStyle":"success","active":true}},
+  {"type":"ProgressBar","props":{},"children":[{"type":"ProgressBar","props":{"now":30,"bsStyle":"success"},"children":[],"componentName":null},{"type":"ProgressBar","props":{"now":30,"bsStyle":"warning"},"children":[],"componentName":null},{"type":"ProgressBar","props":{"now":30,"bsStyle":"danger"}}]}
+]

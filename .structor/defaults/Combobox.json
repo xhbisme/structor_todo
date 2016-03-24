@@ -1,0 +1,44 @@
+[
+  {
+    "variantName": "one-column data",
+    "type": "Combobox",
+    "props": {
+      "defaultValue": "orange",
+      "data": [
+        "orange",
+        "red",
+        "blue",
+        "purple"
+      ],
+      "data-umyid": "20"
+    }
+  },
+  {
+    "variantName": "two-colmn-data array",
+    "type": "Combobox",
+    "props": {
+      "defaultValue": 1,
+      "valueField": "id",
+      "textField": "name",
+      "data": [
+        {
+          "id": 0,
+          "name": "orange"
+        },
+        {
+          "id": 1,
+          "name": "purple"
+        },
+        {
+          "id": 2,
+          "name": "red"
+        },
+        {
+          "id": 3,
+          "name": "blue"
+        }
+      ],
+      "data-umyid": "20"
+    }
+  }
+]

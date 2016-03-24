@@ -1,0 +1,71 @@
+[
+  {
+    "variantName": "default",
+    "type": "Image",
+    "props": {
+      "src": "http://lorempixel.com/600/337/nature/",
+      "data-umyid": "81",
+      "style": {
+        "width": "100%"
+      }
+    }
+  },
+  {
+    "variantName": "rounded",
+    "type": "Image",
+    "props": {
+      "src": "http://lorempixel.com/600/337/nature/",
+      "rounded": true,
+      "circle": false,
+      "thumbnail": false,
+      "style": {
+        "width": "100%"
+      },
+      "data-umyid": "81"
+    }
+  },
+  {
+    "variantName": "circle",
+    "type": "Image",
+    "props": {
+      "src": "http://lorempixel.com/600/337/nature/",
+      "rounded": false,
+      "circle": true,
+      "thumbnail": false,
+      "style": {
+        "width": "250px",
+        "height": "250px"
+      },
+      "data-umyid": "81"
+    }
+  },
+  {
+    "variantName": "thumbnail",
+    "type": "Image",
+    "props": {
+      "src": "http://lorempixel.com/600/337/nature/",
+      "rounded": false,
+      "circle": false,
+      "thumbnail": true,
+      "style": {
+        "width": "100%"
+      },
+      "data-umyid": "81"
+    }
+  },
+  {
+    "variantName": "responsive",
+    "type": "Image",
+    "props": {
+      "src": "http://lorempixel.com/600/337/nature/",
+      "rounded": false,
+      "circle": false,
+      "thumbnail": false,
+      "responsive": true,
+      "style": {
+        "width": "100%"
+      },
+      "data-umyid": "82"
+    }
+  }
+]

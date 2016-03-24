@@ -1,0 +1,90 @@
+[
+  {
+    "variantName": "default",
+    "type": "Pager",
+    "props": {
+      "data-umyid": "64"
+    },
+    "children": [
+      {
+        "type": "PageItem",
+        "props": {
+          "href": "#",
+          "data-umyid": "65"
+        },
+        "children": [
+          {
+            "type": "span",
+            "props": {
+              "data-umyid": "66"
+            },
+            "children": [],
+            "text": "Previous"
+          }
+        ]
+      },
+      {
+        "type": "PageItem",
+        "props": {
+          "href": "#",
+          "data-umyid": "67"
+        },
+        "children": [
+          {
+            "type": "span",
+            "props": {
+              "data-umyid": "68"
+            },
+            "children": [],
+            "text": "Next"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "variantName": "prev-next align",
+    "type": "Pager",
+    "props": {
+      "data-umyid": "69"
+    },
+    "children": [
+      {
+        "type": "PageItem",
+        "props": {
+          "href": "#",
+          "previous": true,
+          "data-umyid": "70"
+        },
+        "children": [
+          {
+            "type": "span",
+            "props": {
+              "data-umyid": "71"
+            },
+            "children": [],
+            "text": "Previous"
+          }
+        ]
+      },
+      {
+        "type": "PageItem",
+        "props": {
+          "href": "#",
+          "next": true,
+          "data-umyid": "72"
+        },
+        "children": [
+          {
+            "type": "span",
+            "props": {
+              "data-umyid": "73"
+            },
+            "children": [],
+            "text": "Next"
+          }
+        ]
+      }
+    ]
+  }
+]

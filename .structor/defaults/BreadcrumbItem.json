@@ -1,0 +1,59 @@
+[
+  {
+    "variantName": "default",
+    "type": "BreadcrumbItem",
+    "props": {
+      "href": "#",
+      "data-umyid": "55"
+    },
+    "children": [
+      {
+        "variantName": "Unsaved variant",
+        "type": "span",
+        "props": {
+          "data-umyid": "56"
+        },
+        "text": "Home"
+      }
+    ]
+  },
+  {
+    "variantName": "active",
+    "type": "BreadcrumbItem",
+    "props": {
+      "href": "#",
+      "active": true,
+      "target": "_blank",
+      "data-umyid": "57"
+    },
+    "children": [
+      {
+        "variantName": "Unsaved variant",
+        "type": "span",
+        "props": {
+          "data-umyid": "58"
+        },
+        "text": "Home"
+      }
+    ]
+  },
+  {
+    "variantName": "target _blank",
+    "type": "BreadcrumbItem",
+    "props": {
+      "href": "#",
+      "target": "_blank",
+      "data-umyid": "55"
+    },
+    "children": [
+      {
+        "variantName": "Unsaved variant",
+        "type": "span",
+        "props": {
+          "data-umyid": "56"
+        },
+        "text": "Home"
+      }
+    ]
+  }
+]

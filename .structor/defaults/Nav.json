@@ -1,0 +1,310 @@
+[
+  {
+    "variantName": "pills",
+    "type": "Nav",
+    "props": {
+      "bsStyle": "pills",
+      "data-umyid": "19"
+    },
+    "children": [
+      {
+        "type": "NavItem",
+        "props": {
+          "href": "#",
+          "data-umyid": "20"
+        },
+        "children": [
+          {
+            "type": "span",
+            "text": "Link",
+            "props": {
+              "data-umyid": "21"
+            }
+          }
+        ]
+      },
+      {
+        "type": "NavItem",
+        "props": {
+          "href": "#",
+          "data-umyid": "22"
+        },
+        "children": [
+          {
+            "type": "span",
+            "text": "Link",
+            "props": {
+              "data-umyid": "23"
+            }
+          }
+        ]
+      },
+      {
+        "type": "DropdownButton",
+        "props": {
+          "title": "Dropdown",
+          "data-umyid": "24"
+        },
+        "children": [
+          {
+            "type": "MenuItem",
+            "props": {
+              "eventKey": "1",
+              "data-umyid": "25"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Dropdown link",
+                "props": {
+                  "data-umyid": "26"
+                }
+              }
+            ]
+          },
+          {
+            "type": "MenuItem",
+            "props": {
+              "eventKey": "2",
+              "data-umyid": "27"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Dropdown link",
+                "props": {
+                  "data-umyid": "28"
+                }
+              }
+            ]
+          },
+          {
+            "type": "MenuItem",
+            "props": {
+              "divider": true,
+              "data-umyid": "29"
+            }
+          },
+          {
+            "type": "MenuItem",
+            "props": {
+              "eventKey": "3",
+              "data-umyid": "30"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Dropdown link",
+                "props": {
+                  "data-umyid": "31"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "variantName": "left",
+    "type": "Nav",
+    "props": {
+      "pullRight": false,
+      "data-umyid": "41"
+    },
+    "children": [
+      {
+        "type": "NavItem",
+        "props": {
+          "href": "#",
+          "data-umyid": "42"
+        },
+        "children": [
+          {
+            "type": "span",
+            "text": "Link",
+            "props": {
+              "data-umyid": "43"
+            }
+          }
+        ]
+      },
+      {
+        "type": "NavItem",
+        "props": {
+          "href": "#",
+          "data-umyid": "44"
+        },
+        "children": [
+          {
+            "type": "span",
+            "text": "Link",
+            "props": {
+              "data-umyid": "45"
+            }
+          }
+        ]
+      },
+      {
+        "variantName": "default",
+        "type": "NavDropdown",
+        "props": {
+          "data-umyid": "46",
+          "title": "Dropdown",
+          "eventKey": 3
+        },
+        "children": [
+          {
+            "props": {
+              "eventKey": "1",
+              "data-umyid": "47"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Menu Item Link",
+                "props": {
+                  "data-umyid": "48"
+                }
+              }
+            ],
+            "type": "MenuItem"
+          },
+          {
+            "props": {
+              "eventKey": "2",
+              "data-umyid": "49"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Menu Item Link",
+                "props": {
+                  "data-umyid": "50"
+                }
+              }
+            ],
+            "type": "MenuItem"
+          },
+          {
+            "props": {
+              "eventKey": "3",
+              "data-umyid": "51"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Menu Item Link",
+                "props": {
+                  "data-umyid": "52"
+                }
+              }
+            ],
+            "type": "MenuItem"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "variantName": "right",
+    "type": "Nav",
+    "props": {
+      "pullRight": true,
+      "data-umyid": "21"
+    },
+    "children": [
+      {
+        "type": "NavItem",
+        "props": {
+          "href": "#",
+          "data-umyid": "22"
+        },
+        "children": [
+          {
+            "type": "span",
+            "text": "Link",
+            "props": {
+              "data-umyid": "23"
+            }
+          }
+        ]
+      },
+      {
+        "type": "NavItem",
+        "props": {
+          "href": "#",
+          "data-umyid": "24"
+        },
+        "children": [
+          {
+            "type": "span",
+            "text": "Link",
+            "props": {
+              "data-umyid": "25"
+            }
+          }
+        ]
+      },
+      {
+        "variantName": "default",
+        "type": "NavDropdown",
+        "props": {
+          "data-umyid": "34",
+          "title": "Dropdown",
+          "eventKey": 3
+        },
+        "children": [
+          {
+            "props": {
+              "eventKey": "1",
+              "data-umyid": "35"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Menu Item Link",
+                "props": {
+                  "data-umyid": "36"
+                }
+              }
+            ],
+            "type": "MenuItem"
+          },
+          {
+            "props": {
+              "eventKey": "2",
+              "data-umyid": "37"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Menu Item Link",
+                "props": {
+                  "data-umyid": "38"
+                }
+              }
+            ],
+            "type": "MenuItem"
+          },
+          {
+            "props": {
+              "eventKey": "3",
+              "data-umyid": "39"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Menu Item Link",
+                "props": {
+                  "data-umyid": "40"
+                }
+              }
+            ],
+            "type": "MenuItem"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "projectName": "bootstrap-prepack",
+  "projectId": 173,
+  "exportDirPath": "src/client/routes",
+  "proxyURL": "http://localhost:3000"
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "variantName": "one-column array",
+    "type": "SelectList",
+    "props": {
+      "defaultValue": "orange",
+      "data": [
+        "orange",
+        "red",
+        "blue",
+        "purple"
+      ],
+      "data-umyid": "11"
+    }
+  },
+  {
+    "variantName": "multiple, one-column array",
+    "type": "SelectList",
+    "props": {
+      "defaultValue": "orange",
+      "multiple": true,
+      "data": [
+        "orange",
+        "red",
+        "blue",
+        "purple"
+      ],
+      "data-umyid": "11"
+    }
+  }
+]

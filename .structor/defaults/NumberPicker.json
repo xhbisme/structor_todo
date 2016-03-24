@@ -1,0 +1,19 @@
+[
+  {
+    "variantName": "default",
+    "type": "NumberPicker",
+    "props": {
+      "defaultValue": 1,
+      "data-umyid": "11"
+    }
+  },
+  {
+    "variantName": "step 5",
+    "type": "NumberPicker",
+    "props": {
+      "defaultValue": 0,
+      "step": 5,
+      "data-umyid": "20"
+    }
+  }
+]

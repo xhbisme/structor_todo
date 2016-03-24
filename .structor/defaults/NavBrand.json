@@ -1,0 +1,28 @@
+[
+  {
+    "variantName": "default",
+    "type": "NavBrand",
+    "props": {
+      "data-umyid": "118"
+    },
+    "children": [
+      {
+        "variantName": "Default",
+        "type": "a",
+        "props": {
+          "href": "#",
+          "data-umyid": "119"
+        },
+        "children": [
+          {
+            "type": "span",
+            "text": "Link text",
+            "props": {
+              "data-umyid": "120"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "variantName": "formatted",
+    "type": "DateTimePickerWrapper",
+    "props": {
+      "format": "MM/DD/YYYY HH:mm:ss",
+      "data-umyid": "16"
+    },
+    "children": []
+  },
+  {
+    "variantName": "without time",
+    "type": "DateTimePickerWrapper",
+    "props": {
+      "format": "MM/DD/YYYY",
+      "time": false,
+      "data-umyid": "16"
+    },
+    "children": []
+  },
+  {
+    "variantName": "without calendar",
+    "type": "DateTimePickerWrapper",
+    "props": {
+      "format": "HH:mm:ss",
+      "time": true,
+      "calendar": false,
+      "data-umyid": "16"
+    },
+    "children": []
+  }
+]

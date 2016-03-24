@@ -1,0 +1,148 @@
+[
+  {
+    "variantName": "3 empty tabs",
+    "type": "Tabs",
+    "props": {
+      "activeKey": 1,
+      "data-umyid": "139"
+    },
+    "children": [
+      {
+        "type": "Tab",
+        "props": {
+          "title": "Tab1",
+          "data-umyid": "140"
+        }
+      },
+      {
+        "type": "Tab",
+        "props": {
+          "title": "Tab1",
+          "data-umyid": "141"
+        }
+      },
+      {
+        "type": "Tab",
+        "props": {
+          "title": "Tab1",
+          "data-umyid": "142"
+        }
+      }
+    ]
+  },
+  {
+    "variantName": "3 tabs with panels",
+    "type": "Tabs",
+    "props": {
+      "defaultActiveKey": 1,
+      "data-umyid": "139"
+    },
+    "children": [
+      {
+        "type": "Tab",
+        "props": {
+          "title": "Tab1",
+          "eventKey": 1,
+          "key": 1,
+          "data-umyid": "140"
+        },
+        "children": [
+          {
+            "type": "Panel",
+            "props": {
+              "data-umyid": "143"
+            },
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "span",
+                    "text": "First Tab Panel",
+                    "props": {
+                      "data-umyid": "145"
+                    },
+                    "componentName": null
+                  }
+                ],
+                "props": {
+                  "data-umyid": "144"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Tab",
+        "props": {
+          "title": "Tab1",
+          "eventKey": 2,
+          "key": 2,
+          "data-umyid": "141"
+        },
+        "children": [
+          {
+            "type": "Panel",
+            "props": {
+              "data-umyid": "156"
+            },
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "span",
+                    "text": "Second Tab Panel",
+                    "props": {
+                      "data-umyid": "158"
+                    },
+                    "componentName": null
+                  }
+                ],
+                "props": {
+                  "data-umyid": "157"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Tab",
+        "props": {
+          "title": "Tab1",
+          "eventKey": 3,
+          "key": 3,
+          "data-umyid": "142"
+        },
+        "children": [
+          {
+            "type": "Panel",
+            "props": {
+              "data-umyid": "159"
+            },
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "span",
+                    "text": "Third Tab Panel",
+                    "props": {
+                      "data-umyid": "161"
+                    },
+                    "componentName": null
+                  }
+                ],
+                "props": {
+                  "data-umyid": "160"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

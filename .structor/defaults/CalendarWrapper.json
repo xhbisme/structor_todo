@@ -1,0 +1,11 @@
+[
+  {
+    "variantName": "default with footer",
+    "type": "CalendarWrapper",
+    "props": {
+      "footer": true,
+      "data-umyid": "15"
+    },
+    "children": []
+  }
+]

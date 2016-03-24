@@ -1,0 +1,14 @@
+[
+  {
+    "variantName": "default",
+    "type": "Navbar",
+    "props": {
+      "inverse": true,
+      "staticTop": true,
+      "data-umyid": "64",
+      "toggleNavKey": 0,
+      "fixedTop": true
+    },
+    "children": []
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "variantName": "simple list",
+    "type": "DropdownList",
+    "props": {
+      "defaultValue": "orange",
+      "data": [
+        "orange",
+        "red",
+        "purple",
+        "blue"
+      ],
+      "data-umyid": "10"
+    }
+  },
+  {
+    "variantName": "with data two-field-object array",
+    "type": "DropdownList",
+    "props": {
+      "valueField": "id",
+      "textField": "name",
+      "defaultValue": 1,
+      "data": [
+        {
+          "id": 0,
+          "name": "orange"
+        },
+        {
+          "id": 1,
+          "name": "purple"
+        },
+        {
+          "id": 2,
+          "name": "red"
+        },
+        {
+          "id": 3,
+          "name": "blue"
+        }
+      ],
+      "data-umyid": "10"
+    }
+  },
+  {
+    "variantName": "with filter",
+    "type": "DropdownList",
+    "props": {
+      "valueField": "id",
+      "textField": "name",
+      "defaultValue": 1,
+      "caseSensitive": false,
+      "filter": "contains",
+      "data": [
+        {
+          "id": 0,
+          "name": "orange"
+        },
+        {
+          "id": 1,
+          "name": "purple"
+        },
+        {
+          "id": 2,
+          "name": "red"
+        },
+        {
+          "id": 3,
+          "name": "blue"
+        }
+      ],
+      "data-umyid": "10"
+    }
+  }
+]

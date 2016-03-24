@@ -1,0 +1,6 @@
+{
+  "list": [
+    {"id": 1, "name": "John Dough", "email": "j.dough@mail.com"},
+    {"id": 2, "name": "John Dough 2", "email": "j.dough2@mail.com"}
+  ]
+}

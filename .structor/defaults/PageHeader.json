@@ -1,0 +1,27 @@
+[
+  {
+    "variantName": "default",
+    "type": "PageHeader",
+    "props": {
+      "data-umyid": "77"
+    },
+    "children": [
+      {
+        "type": "span",
+        "props": {
+          "data-umyid": "78"
+        },
+        "children": [],
+        "text": "Page Header Text"
+      },
+      {
+        "type": "small",
+        "props": {
+          "data-umyid": "79"
+        },
+        "children": [],
+        "text": "  Small text"
+      }
+    ]
+  }
+]

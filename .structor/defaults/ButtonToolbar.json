@@ -1,0 +1,52 @@
+[
+  {
+    "children":[
+      {
+        "type": "ButtonGroup",
+        "children":[
+          {
+            "type": "Button",
+            "children":[
+              {"type": "span", "text": "Left"}
+            ]
+          },
+          {
+            "type": "Button",
+            "children":[
+              {"type": "span", "text": "Middle"}
+            ]
+          },
+          {
+            "type": "Button",
+            "children":[
+              {"type": "span", "text": "Right"}
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ButtonGroup",
+        "children":[
+          {
+            "type": "Button",
+            "children":[
+              {"type": "span", "text": "Left"}
+            ]
+          },
+          {
+            "type": "Button",
+            "children":[
+              {"type": "span", "text": "Middle"}
+            ]
+          },
+          {
+            "type": "Button",
+            "children":[
+              {"type": "span", "text": "Right"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

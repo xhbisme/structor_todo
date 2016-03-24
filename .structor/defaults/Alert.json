@@ -1,0 +1,106 @@
+[
+  {
+    "type": "Alert",
+    "props": {},
+    "children": [
+      {
+        "type": "strong",
+        "props": {},
+        "children": [],
+        "text": "Holy guacamole!"
+      },
+      {
+        "type": "span",
+        "props": {},
+        "children": [],
+        "text": "  Best check yo self, you're not looking too good."
+      }
+    ]
+  },
+  {
+    "type": "Alert",
+    "props": {
+      "bsStyle": "success"
+    },
+    "children": [
+      {
+        "type": "strong",
+        "props": {},
+        "children": [],
+        "text": "Holy guacamole!"
+      },
+      {
+        "type": "span",
+        "props": {},
+        "children": [],
+        "text": "  Best check yo self, you're not looking too good."
+      }
+    ]
+  },
+  {
+    "type": "Alert",
+    "props": {
+      "bsStyle": "warning"
+    },
+    "children": [
+      {
+        "type": "strong",
+        "props": {},
+        "children": [],
+        "text": "Holy guacamole!"
+      },
+      {
+        "type": "span",
+        "props": {},
+        "children": [],
+        "text": "  Best check yo self, you're not looking too good."
+      }
+    ]
+  },
+  {
+    "type": "Alert",
+    "props": {
+      "bsStyle": "danger"
+    },
+    "children": [
+      {
+        "type": "strong",
+        "props": {},
+        "children": [],
+        "text": "Holy guacamole!"
+      },
+      {
+        "type": "span",
+        "props": {},
+        "children": [],
+        "text": "  Best check yo self, you're not looking too good."
+      }
+    ]
+  },
+  {
+    "variantName": "announce",
+    "type": "Alert",
+    "props": {
+      "data-umyid": "539",
+      "bsStyle": "warning"
+    },
+    "children": [
+      {
+        "type": "strong",
+        "props": {
+          "data-umyid": "540"
+        },
+        "children": [],
+        "text": "Announce:"
+      },
+      {
+        "type": "span",
+        "props": {
+          "data-umyid": "541"
+        },
+        "children": [],
+        "text": "  Best check yo self, you're not looking too good."
+      }
+    ]
+  }
+]

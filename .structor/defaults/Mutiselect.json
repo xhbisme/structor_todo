@@ -1,0 +1,19 @@
+[
+  {
+    "variantName": "one-column array",
+    "type": "Mutiselect",
+    "props": {
+      "defaultValue": [
+        "orange",
+        "red"
+      ],
+      "data": [
+        "orange",
+        "red",
+        "blue",
+        "purple"
+      ],
+      "data-umyid": "21"
+    }
+  }
+]
